@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c71dd9a-56f4-4ac2-96d7-6c1bb0f47a43",
+  "path": "extract-errors",
+  "path_key": "extract-errors",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
